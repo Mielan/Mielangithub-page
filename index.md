@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bits of Mielan
 
 You can use the [editor on GitHub](https://github.com/Mielan/Mielangithub-page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
